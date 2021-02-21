@@ -17,7 +17,6 @@ Integral term takes into account the integral of cte over the previuos time. It 
 
 With derivative part, the controller output is proportional to the rate of change of cte (its derivative). The parameter is used to reduce overshooting.
 
-While the PID controller is easy to implement, but it is not so easy to tune.
 
 ## How it was tuned
 
